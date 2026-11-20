@@ -4,15 +4,15 @@
 ## Footprinting & Reconnaissance Attacks with theHarvester
 
 > **Cybersecurity Ethical Hacking - For Educational Purposes Only!**
->
-> **Source:** NetworkWalks.com | **Version:** 4.10
+> **Network Scanning with Zenmap | Footprinting
+> **Source:** NetworkWalks.com 
 
-## 🛠️ Tools Used
+##  Tools Used
 
-|Name  : |Albert Stephen |
+|Name  |Albert Dominic Stephen |
 | --- | --- |
 | **Program** | B082-Networkwalks |
-| **Modules** | `Wk2 - PM4 - Footp with theHarvester` & `W2 - PM5 - Network Sc with Zenmap` |
+| **Modules** | `Wk2-PM4-Footp with theHarvester` & `W2-PM5-Network Sc with Zenmap` |
 | **Target** | `My own LAN`, `microsoft.com` |
 
 ---
