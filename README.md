@@ -7,6 +7,14 @@
 >
 > **Source:** NetworkWalks.com | **Version:** 4.10
 
+## 🛠️ Tools Used
+
+| Name  : | Albert Stephen |
+| --- | --- |
+| **OS** | Kali Linux |
+| **Tool** | theHarvester (Pre-installed in Kali) |
+| **Target Domain** | `microsoft.com` |
+
 ---
 
 ## 📋 Project Overview
@@ -48,9 +56,11 @@ Task 1: Find email IDs & sub-domains related to microsoft.com using Baidu - Limi
 Goal: Find email IDs & sub-domains related to a target organization microsoft.com using the theHarvester tool in Kali Linux with Baidu. Set the limit of number of results to 1000.
 ## SOLUTION - Task 1
 - STEP 1: Open theHarvester tool in Kali Linux from the menu.
-- STEP 2: Read the usage instructions & guidelines:bashtheHarvester -hSTEP 3: In the terminal window, type below command to start theHarvester & search for the required detail using Baidu:bashtheHarvester -d microsoft.com -l 1000 -b baiduFlags Explained:
+- STEP 2: Read the usage instructions & guidelines:bashtheHarvester -h
+- STEP 3: In the terminal window, type below command to start theHarvester & search for the required detail using Baidu:bashtheHarvester -d microsoft.com -l 1000 -b baiduFlags Explained:
 -d is the target domain-l limits the number of results-b sets the data sourcetheHarvester then extracts the details and shows them on screen. Scroll down to see the emails and hosts.
-Save Output:bashtheHarvester -d microsoft.com -l 1000 -b baidu -f Task-1-Baidu/outputSTEP 4: Save the screenshot. Save the output in a text file.
+Save Output:bashtheHarvester -d microsoft.com -l 1000 -b baidu -f Task-1-Baidu/output
+- STEP 4: Save the screenshot. Save the output in a text file.
 
 ## Prove 
 ![](result1.png)
