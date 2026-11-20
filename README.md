@@ -9,11 +9,10 @@
 
 ## 🛠️ Tools Used
 
-| Name  : |Albert Stephen |
+|Name  : |Albert Stephen |
 | --- | --- |
 | **Program** | B082-Networkwalks |
-| **Modules** | Week2 - Project Module4 - Footp with theHarvester 
-Week2 - Project Module5 - Network Sc with Zenmap |
+| **Modules** | `Wk2 - PM4 - Footp with theHarvester` & `W2 - PM5 - Network Sc with Zenmap` |
 | **Target** | `My own LAN`, `microsoft.com` |
 
 ---
