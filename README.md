@@ -9,11 +9,12 @@
 
 ## 🛠️ Tools Used
 
-| Name  : | Albert Stephen |
+| Name  : |Albert Stephen |
 | --- | --- |
-| **OS** | Kali Linux |
-| **Tool** | theHarvester (Pre-installed in Kali) |
-| **Target Domain** | `microsoft.com` |
+| **Program** | B082-Networkwalks |
+| **Modules** | Week2 - Project Module4 - Footp with theHarvester 
+Week2 - Project Module5 - Network Sc with Zenmap |
+| **Target** | `My own LAN`, `microsoft.com` |
 
 ---
 
